@@ -1,0 +1,23 @@
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Viva Música.dll
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Viva Música.pdb
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\AppManifest.xaml
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Viva_Música_Debug_AnyCPU.xap
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\App.g.cs
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\Viva Música.g.resources
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\Viva_Música.Resources.AppResources.resources
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\Viva Música.csproj.GenerateResource.Cache
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\Viva Música.dll
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\Viva Música.pdb
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\XapCacheFile.xml
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\Internet.g.cs
+c:\users\maurício buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\PivotPage1.g.cs
+C:\Users\Maurício Buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\Favoritos.g.cs
+C:\Users\Maurício Buzata\documents\visual studio 2013\Projects\Comercial\Viva Música\Viva Música\obj\Debug\Sobre.g.cs
